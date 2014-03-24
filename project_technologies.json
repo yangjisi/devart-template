@@ -3,15 +3,19 @@
         "apis": [
             "insert apis"
         ],
+        "languages": [
+            "html",
+            "javascript",
+            "css"
+        ],
         "platforms": [
             "Chrome Apps"
         ],
         "toolkits": [
             "html5 storage",
             "html5 canvas",
-            "Angular JS",
-            "jquery",
-            "css3"
+            "Angularjs",
+            "jquery"
         ]
     },
     "themes": [
