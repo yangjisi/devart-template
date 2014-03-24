@@ -1,1 +1,1 @@
-World Wide Web Ocean World
+World Wide Web Ocean World, literally.
