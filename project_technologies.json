@@ -4,13 +4,17 @@
             "insert apis"
         ],
         "platforms": [
-            "insert platforms"
+            "Chrome Apps"
         ],
         "toolkits": [
-            "insert toolkits"
+            "html5 storage",
+            "html5 canvas",
+            "Angular JS",
+            "jquery",
+            "css3"
         ]
     },
     "themes": [
-        "insert themes"
+        "connectivity"
     ]
 }
