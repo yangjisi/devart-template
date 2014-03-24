@@ -1,5 +1,4 @@
-# Project Title
-Ocean, buoy series
+# Ocean, buoy series
 
 ## Authors
 Yang ji si, https://github.com/yangjisi

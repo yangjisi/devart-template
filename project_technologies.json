@@ -3,11 +3,6 @@
         "apis": [
             "insert apis"
         ],
-        "languages": [
-            "html",
-            "javascript",
-            "css"
-        ],
         "platforms": [
             "Chrome Apps"
         ],
@@ -15,7 +10,10 @@
             "html5 storage",
             "html5 canvas",
             "Angularjs",
-            "jquery"
+            "jquery",
+            "html",
+            "javascript",
+            "css"
         ]
     },
     "themes": [
