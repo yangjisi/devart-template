@@ -1,1 +1,1 @@
-Floatings and Submarine communications cable
+Various floatings and Submarine communications cable
